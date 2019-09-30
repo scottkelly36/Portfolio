@@ -1,9 +1,9 @@
 <div class="sidenav" id="sidenav">
-        <a href="#home" class="center"><i class="fas fa-home"></i></a>
-        <a href="#portfolio" class="center"><i class="fas fa-book"></i></a>
-        <a href="#about" class="center"><i class="fas fa-user-alt"></i></a>
-        <a href="#contact" class="center"><i class="fas fa-envelope-square"></i></a>
-        <a href="#" class="center" onclick="openOverlay()"><i class="far fa-heart"></i></a>
+        <a href="#home" class="center" data-toggle="tooltip" data-placement="right" title="Home"><i class="fas fa-home"></i></a>
+        <a href="#portfolio" class="center" data-toggle="tooltip" data-placement="right" title="Portfolio"><i class="fas fa-book"></i></a>
+        <a href="#about" class="center" data-toggle="tooltip" data-placement="right" title="About"><i class="fas fa-user-alt"></i></a>
+        <a href="#contact" class="center" data-toggle="tooltip" data-placement="right" title="Contact"><i class="fas fa-envelope-square"></i></a>
+        <a href="#" class="center" onclick="openOverlay()" data-toggle="tooltip" data-placement="right" title="Social"><i class="far fa-heart"></i></a>
 </div>
 
 <div class="navbar">

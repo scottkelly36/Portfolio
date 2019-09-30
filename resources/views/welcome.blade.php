@@ -5,7 +5,7 @@
 
 <div class="container" id="home">
    <div class="title">
-      <img class="img-fluid" src="/images/logo.png" alt="logo">
+      <img class="logo" src="/images/logo.png" alt="logo">
       <h1 class="animation"> Metaa</h1>
       <p></p>
    </div>
@@ -21,42 +21,36 @@
    <div class="row">
       <h2>From my portfolio</h2>
    </div>
-   <div class="row">
+   <div class="portfolio-row section">
 
-      <div class="col">
+      <div class="column">
          <div class="portfolio-item">
             <img id="portfolio-img" src="/images/foodies-blog.png" class="img-thumbnail image" alt="">
-            <div class="middle">
-               <div class="links">
-                  <a href="" class="overlay-github" target="_blank"><i class="fab fa-github-square"></i></a>
-                  <a href="" target="_blank"><i class="fas fa-window-maximize" target="_blank"></i></a>
-               </div>
+            <div class="links">
+               <a href="https://github.com/scottkelly36/Foodies-blog" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
+               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize" target="_blank"></i></a>
             </div>
          </div>
          <!--add to this col here-->
       </div>
 
-      <div class="col">
+      <div class="column">
          <div class="portfolio-item">
             <img id="portfolio-img" src="/images/portfolioitem2.png"class="img-thumbnail image" alt="">
-            <div class="middle">
-               <div class="links">
-                  <a href="" class="overlay-github" target="_blank"><i class="fab fa-github-square"></i></a>
-                  <a href="" target="_blank"><i class="fas fa-window-maximize"></i></a>
-               </div>
+            <div class="links">
+               <a href="https://github.com/scottkelly36/Tribute-Page" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
+               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
             </div>
          </div>
          <!--add to this col here-->
       </div>
 
-      <div class="col">
+      <div class="column">
          <div class="portfolio-item">
             <img id="portfolio-img" src="/images/landing_page.png" class="img-thumbnail image" alt="">
-            <div class="middle">
-               <div class="links">
-                  <a href="" class="overlay-github" target="_blank"><i class="fab fa-github-square"></i></a>
-                  <a href="" target="_blank"><i class="fas fa-window-maximize"></i></a>
-               </div>
+            <div class="links">
+               <a href="https://github.com/scottkelly36/Landing-Page" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
+               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
             </div>
          </div>
          <!--add more to this col here-->
@@ -75,10 +69,10 @@
 
    <div class="row section">
       <div class="col">
-         <p>Hi I'm Scott! I'm a Full stack web developer based in the North East of England. I have a passion for building wesites of all kinds, and helping compaines of all sizes build their online prescence.
+         <p>Hi I'm Scott! I'm a Full stack web developer based in the North East of England. I have a passion for building wesites of all kinds, and helping compaines of all sizes build their online presence.
             I'm available for remote work and ready to build the site you've been imagining!<a href="#contact"><strong> Just get in touch.</strong></a>
          </p>
-         <p>If you would like to know more about me and the coding languages I can use fel free to download <a href="#"><strong>my resume.</strong></a></p>
+         <p>If you would like to know more about me and the coding languages I can use, feel free to download <a href="#"><strong>my resume.</strong></a></p>
       </div>
 
       <div class="col center">         
@@ -134,7 +128,7 @@
          </div>
          <div class="col-8">
             <h4>WordPress</h4>
-            <p>WordPress is a free content management system, and is a great place to design and build website's.</p>
+            <p>WordPress is a free content management system, and is a great place to design and build websites.</p>
          </div>
       </div>
       
@@ -168,7 +162,7 @@
    </div>
 
    <div class="row section">
-      <p>If your interested in using our using our services, or just have a question you need answering just get in touch and we will answer as soon as possible.</p>
+      <p>If your interested in using our services, or just have a question you need answering just get in touch and we will answer as soon as possible.</p>
    </div>
 
    <div class="row justify-content-center">
