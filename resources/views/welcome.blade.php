@@ -28,7 +28,7 @@
             <img id="portfolio-img" src="/images/foodies-blog.png" class="img-thumbnail image" alt="">
             <div class="links">
                <a href="https://github.com/scottkelly36/Foodies-blog" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
-               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize" target="_blank"></i></a>
+               <a href="https://scottkelly36.github.io/Foodies-Blog/" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize" target="_blank"></i></a>
             </div>
          </div>
          <!--add to this col here-->
@@ -39,7 +39,7 @@
             <img id="portfolio-img" src="/images/portfolioitem2.png"class="img-thumbnail image" alt="">
             <div class="links">
                <a href="https://github.com/scottkelly36/Tribute-Page" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
-               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
+               <a href="https://scottkelly36.github.io/Tribute-Page/" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
             </div>
          </div>
          <!--add to this col here-->
@@ -50,7 +50,7 @@
             <img id="portfolio-img" src="/images/landing_page.png" class="img-thumbnail image" alt="">
             <div class="links">
                <a href="https://github.com/scottkelly36/Landing-Page" class="overlay-github" target="_blank" data-toggle="tooltip" data-placement="right" title="Github"><i class="fab fa-github-square"></i></a>
-               <a href="" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
+               <a href=" https://scottkelly36.github.io/Landing-Page/" class="host-link" target="_blank" data-toggle="tooltip" data-placement="right" title="Hosted Site"><i class="fas fa-window-maximize"></i></a>
             </div>
          </div>
          <!--add more to this col here-->
@@ -69,10 +69,10 @@
 
    <div class="row section">
       <div class="col">
-         <p>Hi I'm Scott! I'm a Full stack web developer based in the North East of England. I have a passion for building wesites of all kinds, and helping compaines of all sizes build their online presence.
+         <p>Hi I'm Scott!I'm a Full stack web developer based in the North East of England. I have a passion for building websites of all kinds and helping companies of all sizes build their online presence.
             I'm available for remote work and ready to build the site you've been imagining!<a href="#contact"><strong> Just get in touch.</strong></a>
          </p>
-         <p>If you would like to know more about me and the coding languages I can use, feel free to download <a href="#"><strong>my resume.</strong></a></p>
+         <p>If you would like to know more about me and the coding languages I can use, feel free to download <a href="/Scott_kelly_resume.pdf" target="_blank"><strong>my resume.</strong></a></p>
       </div>
 
       <div class="col center">         
