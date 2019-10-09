@@ -69,7 +69,7 @@
 
    <div class="row section">
       <div class="col">
-         <p>Hi I'm Scott!I'm a Full stack web developer based in the North East of England. I have a passion for building websites of all kinds and helping companies of all sizes build their online presence.
+         <p>Hi I'm Scott! I'm a Full stack web developer based in the North East of England. I have a passion for building websites of all kinds and helping companies of all sizes build their online presence.
             I'm available for remote work and ready to build the site you've been imagining!<a href="#contact"><strong> Just get in touch.</strong></a>
          </p>
          <p>If you would like to know more about me and the coding languages I can use, feel free to download <a href="/Scott_kelly_resume.pdf" target="_blank"><strong>my resume.</strong></a></p>
@@ -91,7 +91,7 @@
          </div>
          <div class="col-8">
             <h4>UX/UI Design</h4>
-            <p>The user experiance and interface is everything that make up your website, and the reason users will keep coming back.</p>
+            <p>The user experience and interface is everything that make up your website, and the reason users will keep coming back.</p>
          </div>
       </div>
 
@@ -162,7 +162,7 @@
    </div>
 
    <div class="row section">
-      <p>If your interested in using our services, or just have a question you need answering just get in touch and we will answer as soon as possible.</p>
+      <p>If you're interested in using our services, or just have a question you need answering just get in touch and we will answer as soon as possible.</p>
    </div>
 
    <div class="row justify-content-center">
