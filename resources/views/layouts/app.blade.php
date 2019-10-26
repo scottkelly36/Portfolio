@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" contant="Metaa is a Web development company working form the Newcastle Upon Tyne. we aim to provide services for any company no matter how large or small.">
+        <meta name="author" content="Scott Kelly">
+        <meta name="keywords" content="Hexham, Newcastle, Web developer, Web designer, Northumberland, HTML, Laravel, Website, Blog">
 
         <title>Metaa</title>
 
@@ -55,5 +58,14 @@
             
         }
     </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149695007-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149695007-1');
+</script>
 
 </html>
