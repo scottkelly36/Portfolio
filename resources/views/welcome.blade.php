@@ -177,7 +177,7 @@
    </div>
       <form  class="form-row section" action="/contact" method="POST">
          @csrf
-         <div class="col-6">
+         <div class="col-md-6">
             
                <label for="name">Name</label>
                <input name="name" class="form-control textarea" type="text" value="{{ old('name') }}">
@@ -193,7 +193,7 @@
 
          </div>
 
-         <div class="col-6">
+         <div class="col-md-6">
             
                <label for="message">Message</label>
                <textarea class="form-control message" name="message" id="message" rows="7" value="{{old('message')}}"></textarea>
