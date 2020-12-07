@@ -22,6 +22,30 @@
         <script src="https://kit.fontawesome.com/889f0829fa.js"></script>
     </head>
     <body>
+        <!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v9.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="106901490710305"
+  theme_color="#0A7CFF">
+      </div>
         @include('layouts.navbar')
         @include('inc.messages')
         <div class="container-fluid" id="main">
@@ -29,9 +53,7 @@
             @yield('content')
         </div>
 
-        <div class="fb-customerchat"
-        page_id="106901490710305">
-       </div>
+
     </body>
 
     <!--bootstrap js-->
